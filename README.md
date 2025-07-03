@@ -1,15 +1,15 @@
 Instructions
-# Step 1: Clone the repository
+- Step 1: Clone the repository
 git clone https://github.com/yashshah069/PDF_AI_Assignment.git
 cd PDF_AI_Assignment
 
-# Step 2: Install dependencies
+- Step 2: Install dependencies
 pip install -r requirements.txt
 
-# Step 3: Add your API key to key.env
+- Step 3: Add your API key to key.env
 echo "OPENAI_API_KEY=your_key_here" > key.env
 
-# Step 5: Run the app
+- Step 4: Run the app
 streamlit run app.py
 
 
