@@ -1,0 +1,9 @@
+streamlit
+openai-agents
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+pdfplumber
+python-dotenv
+openai
